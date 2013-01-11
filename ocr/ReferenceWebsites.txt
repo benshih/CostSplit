@@ -1,0 +1,3 @@
+http://docs.opencv.org/doc/tutorials/introduction/android_binary_package/O4A_SDK.html
+http://docs.opencv.org/doc/tutorials/introduction/android_binary_package/android_dev_intro.html#android-dev-intro
+http://opencv.org/platforms/android.html
